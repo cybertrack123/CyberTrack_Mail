@@ -25,7 +25,7 @@ SECRET_KEY = '7$(!y^kw640yuxpsa%h+37stnfvp)ndwuyx#9)u30i6d!^!wk6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1',"cybertrack123.herokuapp.com/"]
 
 
 # Application definition
